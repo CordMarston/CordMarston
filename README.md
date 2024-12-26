@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working at **Z Networks**
 
-- 🌱 I’m currently learning **React, Express, MongoDB**
-
 - 👯 I’m looking to collaborate on **Web3 projects**
 
 - 💬 Ask me about **vue, laravel, jquery, team web environments**
